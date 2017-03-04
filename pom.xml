@@ -22,7 +22,7 @@ limitations under the License.
     <groupId>org.tonicsoft.ebay</groupId>
     <artifactId>ebay-shopping-api</artifactId>
     <packaging>jar</packaging>
-    <version>989.0.0-SNAPSHOT</version>
+    <version>989.0.0</version>
 
     <name>eBay Shopping API Java client</name>
     <description>
