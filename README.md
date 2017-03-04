@@ -53,6 +53,7 @@ To run the above example you will need the core CXF dependencies, org.apache.cxf
  - [Shopping API release notes](https://developer.ebay.com/devzone/shopping/docs/ReleaseNotes.html) - find details about what features of the API will be supported by different versions of this project.
  - [eBay developers program home](https://go.developer.ebay.com/) - Main site for all resources related to the eBay APIs. Here you can sign up to the eBay Developers Program and gain access to the eBay API.
  - WSDL on which this project is based: `http://developer.ebay.com/webservices/VERSION/ShoppingService.wsdl` where `VERSION` is the API version e.g. `989`.
+ - [eBay Trading API SDK](https://github.com/tonicsoft/ebaysdkcore) - A full featured SDK for the eBay Trading API.
 
 # versioning
 Major versions are maintained in a one to one correspondance with the versions of releases detailed on the eBay Developer Program website. For example, version `989.0.0` of this project targets version `989` of the eBay shopping API. Subsequent minor or patch versions of this projects (`981.0.1`, `981.1.0` etc) target the same version of the eBay Shopping API.
