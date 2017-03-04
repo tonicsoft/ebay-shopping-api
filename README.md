@@ -1,5 +1,6 @@
 # ebay-shopping-api
 [![Build Status](https://travis-ci.org/tonicsoft/ebay-shopping-api.svg?branch=master)](https://travis-ci.org/tonicsoft/ebay-shopping-api)
+
 This project is an JAX-WS generated java client for the eBay Shopping API. Use it to avoid the unpleasantries of configuring code generators and the manual downloading of WSDL files etc. This project will not help you create an instance of the generated service interface. For this you must choose a JAX-WS implementation such as Apache CXF or Axis2 etc.
 
 # download
